@@ -1,11 +1,11 @@
 # Curriculum
 Data Science Curriculum
 
-Mod1 Section01 Clone Repo:
+## Mod1 Section01 Clone Repo:
 
--https://github.com/learn-co-students/dsc-1-01-09-variable-assignment-online-ds-pt-041519.git
+- https://github.com/learn-co-students/dsc-1-01-09-variable-assignment-online-ds-pt-041519.git
 
-##Jupyter Notebook cheatsheet
+## Jupyter Notebook cheatsheet
 
 shift enter: run cell, select below
 
